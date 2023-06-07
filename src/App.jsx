@@ -3,6 +3,9 @@ import Navbar from "./components/pages/Navbar";
 import Hero from "./components/Pages/Hero";
 import About from "./components/Pages/About";
 import Project from "./components/Pages/Project";
+import Contact from "./components/Pages/Contact";
+import Footer from "./components/Pages/Footer";
+
 
 const App = () => {
   return (
@@ -10,8 +13,10 @@ const App = () => {
       <Navbar />
       <Hero />
       <About />
-      <Project/>
-      
+      <Project />
+      <Contact />
+      <Footer/>
+     
     </div>
   );
 };

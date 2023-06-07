@@ -4,7 +4,7 @@ import React from 'react'
 
 const Hero = () => {
   return (
-    <div className=" min-h-screen bg-gray-900 flex flex-wrap  font-bold text-white  ">
+    <div className=" min-h-screen bg-gray-900 flex flex-wrap  font-bold text-white  " id="hero">
       <div className="w-1/2 mx-auto pt-56 ">
         <span style={{ fontSize: "2.5em" }}>
           <span className="font-black">Hello, I'm </span>

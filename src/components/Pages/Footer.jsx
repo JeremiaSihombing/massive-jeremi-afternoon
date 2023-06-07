@@ -3,8 +3,8 @@ import React from "react";
 const Footer = () => {
   return (
     <>
-      <div className="bg-[#252641] py-10">
-        <div className="text-white text-center font-bold text-[48px]">
+      <div className="bg-gray-900 ">
+        <div className="text-white text-center font-bold text-">
           <span>Jeremia Jordan</span>
         </div>
 
